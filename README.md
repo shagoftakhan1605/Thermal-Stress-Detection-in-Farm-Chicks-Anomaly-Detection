@@ -1,0 +1,1 @@
+# Thermal-Stress-Detection-in-Farm-Chicks-Anomaly-Detection
