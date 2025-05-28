@@ -1,4 +1,4 @@
-🐥 Thermal Stress Detection in Farm Chicks Using Unsupervised Learning and Thermal Imaging
+# 🐥 Thermal Stress Detection in Farm Chicks Using Unsupervised Learning and Thermal Imaging
 
 ## 📘 Project Overview
 
