@@ -1,4 +1,4 @@
-# 🐥 Thermal Stress Detection in Farm Chicks Using Unsupervised Learning and Thermal Imaging
+🐥 Thermal Stress Detection in Farm Chicks Using Unsupervised Learning and Thermal Imaging
 
 ## 📘 Project Overview
 
@@ -31,7 +31,7 @@ To develop an interpretable, data-efficient machine learning framework that mode
 
 ---
 
-## 🧪 Dataset Description
+## 🧪 [Dataset Description](https://www.kaggle.com/datasets/sureshneethirajan/thermalvideoslayinghens)
 
 * **Source**: In-house thermal recordings of farm chicks
 * **Content**: 11 thermal videos (MP4 format)
