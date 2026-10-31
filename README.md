@@ -2,9 +2,7 @@
 
 ## 📘 Project Overview
 
-This repository presents a proof-of-concept implementation for a **markerless, real-time stress detection framework** in poultry using **thermal infrared imaging** and **unsupervised anomaly detection**. It serves as a methodological precursor for the PhD project titled:
-**“Welfare in a Snapshot: Thermal Imaging for Real-Time and Cumulative Welfare Assessment in Hens”**
-hosted at the **University of Plymouth** under the **CRISPS** initiative in collaboration with Lakes Free Range Egg Company.
+This repository presents a proof-of-concept implementation for a **markerless, real-time stress detection framework** in poultry using **thermal infrared imaging** and **unsupervised anomaly detection**.
 
 ---
 
