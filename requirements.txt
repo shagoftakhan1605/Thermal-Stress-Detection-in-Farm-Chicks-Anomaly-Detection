@@ -1,0 +1,9 @@
+opencv-python
+numpy
+matplotlib
+seaborn
+tqdm
+imageio
+torch
+torchvision
+scikit-learn
